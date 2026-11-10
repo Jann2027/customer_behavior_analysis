@@ -83,12 +83,3 @@ The dashboard shows total customers, average purchase amount and average review 
 | `customer_behavior_dashboard.pbix` | Power BI dashboard |
 | `dashboard_screenshot.png` | Dashboard preview |
 
-## Acknowledgements
-
-I built this project by following a tutorial by [Amlan Mohanty](https://www.youtube.com/@amlanmohanty1) and using the dataset provided with it.
-
-## Author
-
-**Jannathul Firthose S**
-ECE graduate | Data analytics | Embedded systems
-[LinkedIn](https://linkedin.com/in/jannathul-firthose-s-a2aa10255)
